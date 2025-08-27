@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **Spring Framework,node.js,React**
+- 🌱 I’m currently learning **Java Frameworks,node,DSA**
 
 - 📫 How to reach me **eshanchoudhary@gmail.com**
 
@@ -30,3 +30,4 @@
 [![](https://visitcount.itsvg.in/api?id=eshan-kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
