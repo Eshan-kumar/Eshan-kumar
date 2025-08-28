@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan-kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-kumar" /> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Development and Deployment**
 
 - 🌱 I’m currently learning **Java Frameworks,node,DSA**
 
@@ -30,4 +30,5 @@
 [![](https://visitcount.itsvg.in/api?id=eshan-kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
